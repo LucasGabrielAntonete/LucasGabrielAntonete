@@ -2,7 +2,7 @@
   <img height="350em" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=lucasantonete1&unique={true|1|on|yes"/>
   <div>
     <div>
-      <img height="350em" align="left" src="spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lucasantonete1&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color=4b1ec8)](https://github.com/kittinan/spotify-github-profile)"/>
+      <img height="350em" align="center" src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lucasantonete1&cover_image=false&theme=default&show_offline=false&background_color=000000&bar_color=c014d7)](https://github.com/kittinan/spotify-github-profile)"/>
       <div>
       
 <div align="left">
