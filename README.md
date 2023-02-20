@@ -1,5 +1,5 @@
 <div>
-  <img height="350em" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=lucasantonete1&unique={true|1|on|yes"/>
+  <img height="350em" align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=lucasantonete1&unique={true|1|on|yes"/>
   <div>
     <div>
       <img height="150em" align="" src="https://spotify-github-profile.vercel.app/api/view?uid=lucasantonete1&cover_image=false&theme=default&show_offline=false&background_color=000000&bar_color=c014d7"/>
@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-VUE" height="30" width="60" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img align="center" alt="Rafa-VUE" height="30" width="70" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   </div>
   
   ##
