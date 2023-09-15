@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VUE" height="30" width="60" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-<img align="center" alt="python" height="30" width="60" src="https://icons8.com/icon/l75OEUJkPAk4/python"
+
   </div>
   
   ##
