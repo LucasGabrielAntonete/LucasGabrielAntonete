@@ -1,14 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8C12FC&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO,+Meu+Nome+é+Lucas+Antonete;tenho+18+anos+;+;Sou+estudante+de+aplicações+para+WEB+no+IFC+Araquari;E+Membro+da+Fábrica+de+Software!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO,+meu+nome+é+Lucas+Antonete;tenho+18+anos+;+;sou+estudante+de+aplicações+para+WEB+no+IFC+Araquari;e+membro+da+Fábrica+de+Software!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasGabrielAntonete&show_icons=true&count_private=true&hide_border=true&title_color=8C12FC&icon_color=8C12FC&text_color=8C12FC&bg_color=0d1117" alt="LucasGabrielAntonete github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipejare&layout=compact&hide_border=true&title_color=8C12FC&text_color=8C12FC&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAntonete&layout=compact&hide_border=true&title_color=8C12FC&text_color=8C12FC&bg_color=0d1117" />
 </div>
 
-<div align="center">  
+<div align="left">  
 <a href="https://www.instagram.com/lucas_antonete/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
