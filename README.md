@@ -2,21 +2,13 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO,+meu+nome+é+Lucas+Antonete;tenho+18+anos+;+;sou+estudante+de+aplicações+para+WEB+no+IFC+Araquari;e+membro+da+Fábrica+de+Software!+:%29)](https://git.io/typing-svg)
 
-
-  
-### Main skills:
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-<div align="right">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAntonete&layout=compact&hide_border=true&title_color=8C12FC&text_color=8C12FC&bg_color=0d1117" />
-</div>
-
 <div align="left">  
 <a href="https://www.instagram.com/lucas_antonete/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
-
+### Main skills:
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 ### Other Knowledge:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
