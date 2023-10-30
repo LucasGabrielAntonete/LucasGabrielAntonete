@@ -3,10 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8C12FC&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO,+Meu+Nome+é+Lucas+Antonete;tenho+18+anos+;+;Sou+estudante+de+aplicações+para+WEB+no+IFC+Araquari;E+Membro+da+Fábrica+de+Software!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasGabrielAntonete&show_icons=true&count_private=true&hide_border=true&title_color=8C12FC&icon_color=8C12FC&text_color=8C12FC&bg_color=0d1117" alt="LucasGabrielAntonete github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipejare&layout=compact&hide_border=true&title_color=8C12FC&text_color=8C12FC&bg_color=0d1117" />
-</div>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LucasGabrielAntonete&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
