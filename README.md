@@ -1,6 +1,6 @@
 ## Oi, eu sou o Lucas Antonete
 
-Sou apenas um aluno do Instituto Federal Catarinense, atualmente estou cursando o 3° ano do técnico em informatica para internet, tambem participo do projeto Fábrica de Software aonde sou responsável pelo gerenciamento do projeto Fabrica Class. Tambem já atuei como estagiário na area de desenvolvimento da empresa SoftExpert, aonde juntamente com mais 11 alunos da Fábrica de Software desenvolvi um mapa estratégico em React para a empresa. 
+Sou apenas um aluno do Instituto Federal Catarinense, atualmente estou cursando o 3° ano do técnico em informatica para internet, tambem participo do projeto Fábrica de Software. Tambem já atuei como estagiário na area de desenvolvimento da empresa SoftExpert, aonde juntamente com mais 11 alunos da Fábrica de Software desenvolvi um mapa estratégico em React para a empresa. 
 
 
 <div align="left">  
