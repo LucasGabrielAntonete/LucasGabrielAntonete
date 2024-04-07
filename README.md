@@ -1,6 +1,6 @@
 ## Welcome :)
 
-Just a simple guy making simple projects
+Just a simple guy doing some simple projects
 
 
 <div align="left">  
